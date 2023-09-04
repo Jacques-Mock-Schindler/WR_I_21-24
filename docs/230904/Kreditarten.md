@@ -1,21 +1,5 @@
 # Banken
 
-- [Banken](#banken)
-  - [Kreditarten](#kreditarten)
-    - [Systematisierung von Krediten](#systematisierung-von-krediten)
-    - [Einzelne Kreditarten im Besonderen](#einzelne-kreditarten-im-besonderen)
-      - [Hypotheken](#hypotheken)
-      - [Lombardkredit](#lombardkredit)
-      - [Darlehen^1](#darlehen1)
-        - [Definition](#definition)
-      - [Kontokorrentkredit (Überziehungslimite)](#kontokorrentkredit-überziehungslimite)
-      - [Kreditkarten und Kundenkarten](#kreditkarten-und-kundenkarten)
-      - [Peer-to-Peer-Kredit](#peer-to-peer-kredit)
-        - [Definition](#definition-1)
-        - [Systematisierung](#systematisierung)
-      - [Privatkredit](#privatkredit)
-  - [Gesetzliche Grundlagen für Konsumkredite](#gesetzliche-grundlagen-für-konsumkredite)
-
 ## Kreditarten
 
 ### Systematisierung von Krediten
