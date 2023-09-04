@@ -6,10 +6,13 @@
     - [Einzelne Kreditarten im Besonderen](#einzelne-kreditarten-im-besonderen)
       - [Hypotheken](#hypotheken)
       - [Lombardkredit](#lombardkredit)
-      - [Darlehen](#darlehen)
+      - [Darlehen^1](#darlehen1)
+        - [Definition](#definition)
       - [Kontokorrentkredit (Überziehungslimite)](#kontokorrentkredit-überziehungslimite)
       - [Kreditkarten und Kundenkarten](#kreditkarten-und-kundenkarten)
       - [Peer-to-Peer-Kredit](#peer-to-peer-kredit)
+        - [Definition](#definition-1)
+        - [Systematisierung](#systematisierung)
       - [Privatkredit](#privatkredit)
   - [Gesetzliche Grundlagen für Konsumkredite](#gesetzliche-grundlagen-für-konsumkredite)
 
@@ -31,70 +34,74 @@
 
 #### Lombardkredit
 
-Ein Lombardkredit ist eine Art von Darlehen, bei dem der Kreditnehmer Vermögenswerte als Sicherheit bereitstellt. Diese Vermögenswerte können Wertpapiere, Schmuck, Kunstwerke oder andere wertvolle Gegenstände sein. Der Kreditgeber gewährt dem Kreditnehmer Geld basierend auf dem Wert dieser Sicherheiten. Lombardkredite werden für verschiedene Zwecke genutzt, einschließlich Investitionen oder persönlicher Finanzierung. Die Rückzahlung erfolgt innerhalb einer bestimmten Frist, wobei die Sicherheiten als Absicherung dienen. Wenn der Kredit nicht zurückgezahlt wird, kann der Kreditgeber die Sicherheiten verkaufen, um den ausstehenden Betrag einzuziehen.
+Ein Lombardkredit ist eine Art von Darlehen, bei dem der Kreditnehmer
+Vermögenswerte als Sicherheit bereitstellt. Diese Vermögenswerte können
+Wertpapiere, Schmuck, Kunstwerke oder andere wertvolle Gegenstände sein.
+Der Kreditgeber gewährt dem Kreditnehmer Geld basierend auf dem Wert
+dieser Sicherheiten. Lombardkredite werden für verschiedene Zwecke
+genutzt, einschließlich Investitionen oder persönlicher Finanzierung.
+Die Rückzahlung erfolgt innerhalb einer bestimmten Frist, wobei die
+Sicherheiten als Absicherung dienen. Wenn der Kredit nicht zurückgezahlt
+wird, kann der Kreditgeber die Sicherheiten verkaufen, um den
+ausstehenden Betrag einzuziehen.
 
 **Frist**:
 
-Kurzfristig: Lombardkredite haben eine kurze Laufzeit und müssen innerhalb weniger Monate zurückgezahlt werden.
-Langfristig: In einigen Fällen können Lombardkredite auch über einen längeren Zeitraum hinweg zurückgezahlt werden.
+*Kurzfristig*: Lombardkredite haben eine kurze Laufzeit und müssen
+innerhalb weniger Monate zurückgezahlt werden.
+
+*Langfristig*: In einigen Fällen können Lombardkredite auch über einen
+längeren Zeitraum hinweg zurückgezahlt werden.
 
 **Sicherheit**:
 
-Gesichert: Lombardkredite sind durch Vermögenswerte wie Wertpapiere oder hochwertige Gegenstände abgesichert.
-Ungesichert: Im Gegensatz zu ungesicherten Krediten erfordert ein Lombardkredit immer eine Sicherheit.
+Wie oben beschrieben.
 
 **Zweck**:
 
-Investitionskredite: Lombardkredite werden oft für geschäftliche Investitionen oder den Erwerb von Wertpapieren verwendet.
-Konsumkredite: Sie können aber auch für persönliche Ausgaben oder den Kauf von Konsumgütern genutzt werden.
+*Investitionskredite*: Lombardkredite werden oft für geschäftliche
+Investitionen oder den Erwerb von Wertpapieren verwendet.
+
+*Konsumkredite*: Sie können aber auch für persönliche Ausgaben oder den
+Kauf von Konsumgütern genutzt werden.
 
 **Gläubiger**:
 
-Institutionell: Lombardkredite werden üblicherweise von Finanzinstituten wie Banken oder Brokerfirmen vergeben.
-Privat: Selten können sie auch von Privatpersonen gewährt werden.
+*Institutionell*: Lombardkredite werden üblicherweise von
+Finanzinstituten wie Banken oder Brokerfirmen vergeben.
+
+*Privat*: Selten können sie auch von Privatpersonen gewährt werden.
 
 **Laufzeit**:
 
-Fest: Die Rückzahlungsdauer ist im Voraus festgelegt und muss innerhalb dieser festen Zeitspanne erfolgen.
-Kündbar: In bestimmten Situationen kann der Kreditgeber das Recht haben, den Kredit vorzeitig fällig zu stellen.
+*Fest*: Die Rückzahlungsdauer ist im Voraus festgelegt und muss
+innerhalb dieser festen Zeitspanne erfolgen.
 
-#### Darlehen
+*Kündbar*: In bestimmten Situationen kann der Kreditgeber das Recht
+haben, den Kredit vorzeitig fällig zu stellen.
+
+#### Darlehen[^1]
 
 ![Swisspeer](/docs/230904/Swisspeers%20Logo.jpg)
 
-https://info.swisspeers.ch/glossar/darlehen
-
 ##### Definition
 
-Als Darlehen wird das übertragene Geld vom Kreditgeber zum Kreditnehmer. Dies ist eine Gläubiger-Schuldner-Beziehung.
+Das Übertragen des Eigentums an einer Summe Geld vom Kreditgeber zum
+Kreditnehmer. Das einem Kreditnehmer durch den Kreditgeber übertragene
+Kapital wird als Kredit oder Darlehen bezeichnet. Aus Sicht des
+Kreditnehmers stellt das Darlehen Fremdkapital dar und lässt eine
+Gläubiger-Schuldner-Beziehung entstehen.
 
-##### Darlehensarten/Kreditarten
-
-- Barkredit
-    - Zurverfügungstellung von kreditierten Geldbeträgen durch eine Bank auf einem Bankkonto.
-- Baufinanzierung
-    - Die vielfältigen Möglichkeiten und Formen der kreditmässigen Finanzierung von Baumassnahmen aller Art.
-- Betriebskredit
-    - Kurzfristiger Kredit an ein Unternehmen, der bei vorübergehendem Liquiditätsbedarf aufgenommen wird.
-- Blankokredit
-- Dispositionskredit
-- Effektenlombardkredit
-- Investitionskredit
-- Kontokorrentkredit
-- Lombardkredit
-- Nachrangige Darlehen
-- Partiarische Darlehen
-- Verkäuferdarlehen
-- Zessionskredit
 
 #### Kontokorrentkredit (Überziehungslimite)
+
 | Kriterium | Ausprägung |
-|:-|:-|
-|Frist|Kurzfristig|
-|Sicherheit|Bonität und/oder Sicherheiten hinterlegen|
-|Zweck|Konsumkredite|
-|Gläubiger|Institutionell, Bank|
-|Laufzeit|Nicht festgelegt, laufend|
+| :--- | :--- |
+| Frist | Kurzfristig |
+| Sicherheit | Bonität des Schuldners und/oder Sicherheiten hinterlegen |
+| Zweck | Konsum- und Geschäftskredite |
+| Gläubiger | Bank |
+| Laufzeit | Nicht festgelegt, laufend |
 
 
 #### Kreditkarten und Kundenkarten
@@ -162,3 +169,5 @@ Ein Privatkredit ist ein Darlehen, das zwischen zwei Individuen, meistens ohne d
 * Für die Finanzierung von Konsumgütern (vgl. Ausschlussliste von Art. 7 KKG)
 * Formstrenge -> qualifizierte Schriftlichkeit
 * Widerrufsrecht von 14 Tagen Dauer
+
+[^1]: https://info.swisspeers.ch/glossar/darlehen
