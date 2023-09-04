@@ -158,3 +158,7 @@ Ein Privatkredit ist ein Darlehen, das zwischen zwei Individuen, meistens ohne d
 ## Gesetzliche Grundlagen für Konsumkredite
 
 [KKG](https://www.fedlex.admin.ch/eli/cc/2002/593/de)
+
+* Für die Finanzierung von Konsumgütern (vgl. Ausschlussliste von Art. 7 KKG)
+* Formstrenge -> qualifizierte Schriftlichkeit
+* Widerrufsrecht von 14 Tagen Dauer
