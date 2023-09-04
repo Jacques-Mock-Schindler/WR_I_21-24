@@ -21,6 +21,14 @@
 #### Darlehen
 
 #### Kontokorrentkredit (Überziehungslimite)
+| Kriterium | Ausprägung |
+|:-|:-|
+|Frist|Kurzfristig|
+|Sicherheit|Bonität und/oder Sicherheiten hinterlegen|
+|Zweck|Konsumkredite|
+|Gläubiger|Institutionell, Bank|
+|Laufzeit|Nicht festgelegt, laufend|
+
 
 #### Kreditkarten und Kundenkarten
 
