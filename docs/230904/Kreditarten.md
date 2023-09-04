@@ -50,6 +50,18 @@ Als Darlehen wird das übertragene Geld vom Kreditgeber zum Kreditnehmer. Dies i
 #### Kontokorrentkredit (Überziehungslimite)
 
 #### Kreditkarten und Kundenkarten
+| Kriterium       | Kreditkarte                      | Kundenkarte                         |
+| :-------------- | :------------------------------- | :---------------------------------- |
+| Ausstellung     | Banken oder Kreditkartenunternehmen | Einzelne Geschäfte oder Einzelhandelsketten |
+| Verwendungszweck| Zahlungen (online und im Geschäft) | Vorteile und Rabatte für Kunden |
+| Zahlungsart     | Einkäufe auf Kreditbasis, später zahlbar | - |
+
+***Zahlungen bei Kreditkarten***
+
+- Einkäufe auf Kreditbasis, die zu einem späteren Zeitpunkt beglichen werden können.
+- Jede Kreditkarte hat ein festgelegtes Kreditlimit.
+- Falls der Monatsbetrag nicht vollständig beglichen wird, werden zusätzliche Zinsen bezahlt. 
+
 
 #### Peer-to-Peer-Kredit
 
