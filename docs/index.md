@@ -18,8 +18,8 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 29/08/2023 | Banken - [Bilanzgeschäfte](230829/Bilanzgeschaefte.md) |
 | 04/09/2023 | Banken - [Kreditarten](230904/Kreditarten.md)	         |
 | 05/09/2023 | Banken - [Tragbarkeitsrechnung](230905/Tragbarkeitsrechnung.md) |
-| 11/09/2023 | Banken - Börsengeschäfte	     |
-| 12/09/2023 | Banken - Börsengeschäfte	     |
+| 11/09/2023 | Banken - [Ausserbilanzgeschäfte](230911/Boerse.md)	     |
+| 12/09/2023 | Banken - [Optionen](230912/Optionen.ipynb)	     |
 | 18/09/2023 | Banken - Zielkonflikte in der Geldanlage    |
 | 19/09/2023 | Test "IT-Recht & Banken"	                   |
 | 25/09/2023 | Gesellschaftsrecht - Einführung und einfache Gesellschaft |
