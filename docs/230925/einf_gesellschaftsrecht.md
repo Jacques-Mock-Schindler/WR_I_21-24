@@ -1428,30 +1428,44 @@ Personen eine einfache Gesellschaft ist.
 Dies gilt insbesondere auch für das Konkubinat.
 
 ## Vereine
-(Art. 60 ff. ZGB)
 
-Grundsätzlich für nicht kommerzielle Zwecke.
+Vereine sollen nicht wirtschaftlichen Zwecken dienen und werden daher an
+dieser Stelle nicht besprochen.
 
 ## Kollektivgesellschaft
-(Art. 552 ff. OR)
 
-Die Kollektivgesellschaft hat mindestens zwei Gesellschafter. Die
-Gesellschafter sind natürliche Personen.
+Die Kollektivgesellschaft (Art. 552 ff. OR) ist die idealtypische
+Personengesellschaft und ist daher ganz rechts in den beiden sich
+überlappenden Dreiecken zu verorten.
 
-Die Kollektivgesellschaft dient grundsätzlich gewinnorientierten Zielen.
-
-Die Haftung der Gesellschafter ist subsidiär, solidarisch und
-unbeschränkt. Dies stellt nur bedingt eine Grenze für die Grösse des
-Unternehmens dar (vgl. echte Privatbanken).
+Die Kollektivgesellschaft verfügt über mindestens zwei Gesellschafter.
+Als Gesellschafter kommen nur natürliche Personen in Frage.
+Gesellschaftszweck einer Kollektivgesellschaft ist die Führung eines
+gewinnorientierten Unternehmens.
 
 Eine Kollektivgesellschaft erfordert kein Mindestkapital und steht daher
-auch sehr kleinen Unternehmen offen.
+auch sehr kleinen Unternehmen offen. Dem Fehlen von Vorschriften
+bezüglich des Mindestkapitals stehen die Vorschriften bezüglich der
+Haftung gegenüber. Die Gesellschafter haften für Verbindlichkeiten der
+Gesellschaft subsidiär, solidarisch und unbeschränkt.
 
-Die personenorientierte Struktur ermöglicht eine totale Kontrolle über
-den Kreis der Gesellschafter. Generell kann das Innenleben der
-Kollektivgesellschaft sehr frei organisiert werden.
+In Bezug auf die Regelung des Verhältnisses unter den Gesellschaftern
+besteht in der Kollektivgesellschaft ein grosser Gestaltungsspielraum.
+Dort, wo dieser Spielraum nicht genutzt wird, gelten subsidiär die
+Regeln der einfachen Gesellschaft.
+Das bedeutet, dass, sofern der Gesellschaftsvertrag hier keine
+abweichende Regelung trifft, Gesellschaftsbeschlüsse einstimmig gefasst
+werden (Art. 557 Abs. 2 i.V.m. Art. 534 OR) und dass die Aufnahme neuer Gesellschafter der
+Zustimmung aller bisherigen Gesellschafter bedarf (Art. 557 Abs. 2
+i.V.m. Art. 542 OR).
 
-**Einsteigerrechtsform**
+In der Kollektivgesellschaft gilt der Grundsatz der Selbsorganschaft.
+Das heisst, die Gesellschafter sind operativ für die Gesellschaft tätig.
+Aus diesem Grund haben sie nicht nur Anspruch auf einen Gewinnanteil und
+eine Verzinsung ihres Kapitals, sondern auch auf ein Honorar. Zins und
+Honorar steht den Gesellschaftern auch im Falle eines Verlustes zu (Art.
+560 OR). Verzinst wird dann allerdings nur das um den Verlustanteil
+reduzierte Kapital.
 
 ## Kommanditgesellschaft
 (Art. 594 ff. OR)
