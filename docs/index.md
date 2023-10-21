@@ -22,9 +22,9 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 12/09/2023 | Banken - [Optionen](230912/Optionen.ipynb)	     |
 | 18/09/2023 | Banken - Zielkonflikte in der Geldanlage    |
 | 19/09/2023 | Test "IT-Recht & Banken"	                   |
-| 25/09/2023 | Gesellschaftsrecht - Einführung und einfache Gesellschaft |
-| 26/09/2023 | Gesellschaftsrecht - Personengesllschaften  |
-| 23/10/2023 | Gesellschaftsrecht - Aktiengesellschaft, Organisation   |
+| 25/09/2023 | Gesellschaftsrecht - [Einführung und einfache Gesellschaft](230925/einf_gesellschaftsrecht.md) |
+| 26/09/2023 | Gesellschaftsrecht - [Personengesllschaften](230925/einf_gesellschaftsrecht.md#kollektivgesellschaft)  |
+| 23/10/2023 | Gesellschaftsrecht - [Aktiengesellschaft, Organisation](231023/einf_ag.md)   |
 | 24/10/2023 | Gesellschaftsrecht - Aktiengesellschaft, Kapitalerhöhung |
 | 30/10/2023 | Gesellschaftsrecht - Aktiengesellschaft, Unterbilanzen	 |
 | 31/10/2023 | Test "Gesellschaftsrecht"	                 |
