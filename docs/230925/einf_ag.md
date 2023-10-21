@@ -5,6 +5,10 @@ Schweizerischen Gesellschaftsrecht. Anders als zum Beispiel in
 Deutschland ist die Rechtsform der Aktiengesellschaft nicht nur
 Grossunternehmen vorbehalten.
 
+Die Aktiengesellschaft ist die Kapitalgesellschaft schlechthin. Aus
+diesem Grund wird sie in der Einführungsgrafik auch ganz rechts des
+Überganges von der Personen- zur Kapitalgesellschaft plaziert.
+
 ### Organisation der Aktiengesellschaft
 
 Die folgende Grafik soll die Parallelen der Organe der
@@ -669,3 +673,7 @@ Aktiengesellschaft mit jenen der Eidgenossenschaft aufzeigen.
          stroke="none"
          style="white-space:pre"
          id="tspan86">stelle</tspan></tspan></tspan></text>&#10;       </g>&#10;      </g>&#10;     </g>&#10;    </g>&#10;   </g>&#10;  </g>&#10; </g>&#10;</svg>
+
+In Bezug auf die Judikative weist die Metapher Schwächen auf. Die
+Revisionsstelle ist kein richterliches Organ. Wenn allerdings auf den
+Aspekt der Kontrolle fokussiert wird, kann man den Vergleich so stehen lassen.
