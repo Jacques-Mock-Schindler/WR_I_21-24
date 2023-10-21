@@ -1791,14 +1791,3 @@ Element auf und ist daher in der Dreiecksgrafik rechts von der
 Kollektivgesellschaft zu positionieren.
 
 Im Übrigen entsprechen die Regeln im Wesentlichen der Kollektivgesellschaft.
-
-## Die Aktiengesellschaft
-(Art. 620 ff. OR)
-
-Die Aktiengesellschaft ist im Grundsatz die idealtypische
-Kapitalgesellschaft. Dies erleichtert den Verkehr der Beteiligungen.
-Heute gibt es die Tendenz zur Namenaktie. Dies erhöht die Transparenz,
-schränkt aber die Verkehrsfähigkeit der Beteiligungen ein.
-
-### Organisation der AG
-
