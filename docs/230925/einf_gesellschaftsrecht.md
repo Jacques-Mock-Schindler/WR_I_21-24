@@ -1468,13 +1468,19 @@ Honorar steht den Gesellschaftern auch im Falle eines Verlustes zu (Art.
 reduzierte Kapital.
 
 ## Kommanditgesellschaft
-(Art. 594 ff. OR)
 
-Die Kommanditgesellschaft hat zwei Kategorien von Gesellschaftern. Es
-wird unterschieden zwischen Kommanditär (mit beschränkter Haftung) und
-Komplementär (mit unbeschränkter Haftung).
+Die Kommanditgesellschaft dient kommerziellen Zwecken (Art. 594 OR)
+und hat zwei Kategorien von Gesellschaftern. Es
+wird unterschieden zwischen Kommanditär und Komplementär. Kommanditäre
+haften nur bis zu einer im Voraus im Handelsregister eingetragenen
+Kommanditsumme. Komplementäre dagegen haften subsidiär, solidarisch und
+unbeschränkt. Kommanditäre können natürliche oder juristische Personen
+sein, Komplementäre nur natürliche Personen.
+Damit weist die Kommanditgesellschaft ein kapitalistisches
+Element auf und ist daher in der Dreiecksgrafik rechts von der
+Kollektivgesellschaft zu positionieren.
 
-Alles Andere entspricht im wesentlichen der Kollektivgesellschaft.
+Im Übrigen entsprechen die Regeln im Wesentlichen der Kollektivgesellschaft.
 
 ## Die Aktiengesellschaft
 (Art. 620 ff. OR)
