@@ -1326,7 +1326,10 @@ letzten Vertreter dieses Typs war Peter Brabeck-Letmathe bei Nestlé.
    id="path24" />&#10;       </g>&#10;      </g>&#10;     </g>&#10;    </g>&#10;   </g>&#10;  </g>&#10; </g>&#10;</svg>
 
 
-Um Interessekonflikte zu vermeiden ist man heute der Auffassung, dass
-Verwaltungsrat und Management personell getrennt werden sollen.
+Um Interessekonflikte ist der
+Verwaltungsrat und das Management personell zu trennen. So kann
+der Verwaltungsrat seine Aufgabe nach
+[Art. 716a Abs. 1 Ziff. 5
+OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_716_a) wahrnehmen.
 
-## Seienende
+## Seitenende
