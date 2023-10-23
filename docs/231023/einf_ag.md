@@ -1365,3 +1365,7 @@ entspricht dem Wert des Bezugsrechts.
 1'050 - 987.50 = 62.50
 
 Damit ist der Wert des Bezugsrechts 62.50.
+
+Der Verwaltungsrat hat ausserdem die Aufgabe, die
+[Zahlungsfähigkeit der AG](docs/231023/unterbilanz.md)
+überwacht.
