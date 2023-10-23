@@ -1330,4 +1330,38 @@ Um Interessekonflikte ist der
 Verwaltungsrat und das Management personell zu trennen. So kann
 der Verwaltungsrat seine Aufgabe nach
 [Art. 716a Abs. 1 Ziff. 5
-OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_716_a) wahrnehmen.
+OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_716_a)
+wahrnehmen.
+
+## Kapitalerhöhung
+
+Eine Erhöhung des Aktienkapitals führt zu einer Verwässerung des
+Stimmrechts und des Kapitalanteils der bisherigen Aktionäre. Aus diesem
+Grund steht im Prinzip den bisherigen Aktionären ein Anspruch auf den
+Bezug neuer Aktien im Verhältnis ihres bisherigen Anteils zu. Alternativ
+kann dieses sogenannte Bezugsrecht auch veräussert werden.
+
+Die Berechnung des Wertes des Bezugsrechts kann an diesem dem Lehrmittel
+von Carlen/Gianini/Riniker, Finanzbuchhaltung 3, 7. Auflage, 1999,
+erklärt werden:
+
+Das Aktienkapital von bisher 3 Mio. Franken wird um 1 Mio. Franken
+erhöht (2'000 Aktien zu CHF 500 Nennwert). Der Emissionspreis beträgt
+CHF 800, der Kurs einer Aktie vor der Aktienkapitalerhöhung ist CHF
+1'050.
+
+Zur Berechnung des Wertes des Bezugsrechts, wird das gewichtete Mittel
+auch bisherigem Kurs und Emissionspreis berechnet. Die Differenz
+zwischen dem ursprünglichen Kurs und dem gewichteten Durchschnitt
+entspricht dem Wert des Bezugsrechts.
+
+| Text | Betrag |
+| :--- | ---: |
+| Wert von 3 alten Aktien zum Kurs von 1'050 | 3'150 |
+| Wert von 1 neue Aktie zum Preis von 800 | 800 |
+| Wert von 4 Aktien nach der Kapitalerhöhung | 3'950 |
+| Wert von 1 Aktie nach der Kapitalerhöhung | 987.50 |
+
+$ 1'050 - 987.50 = 62.50 $
+
+Damit ist der Wert des Bezugsrechts 62.50.
