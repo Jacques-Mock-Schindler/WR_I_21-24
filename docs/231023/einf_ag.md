@@ -1331,5 +1331,3 @@ Verwaltungsrat und das Management personell zu trennen. So kann
 der Verwaltungsrat seine Aufgabe nach
 [Art. 716a Abs. 1 Ziff. 5
 OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_716_a) wahrnehmen.
-
-## Seitenende
