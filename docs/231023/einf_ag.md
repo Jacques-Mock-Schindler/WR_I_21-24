@@ -1362,6 +1362,6 @@ entspricht dem Wert des Bezugsrechts.
 | Wert von 4 Aktien nach der Kapitalerhöhung | 3'950 |
 | Wert von 1 Aktie nach der Kapitalerhöhung | 987.50 |
 
-$ 1'050 - 987.50 = 62.50 $
+1'050 - 987.50 = 62.50
 
 Damit ist der Wert des Bezugsrechts 62.50.
