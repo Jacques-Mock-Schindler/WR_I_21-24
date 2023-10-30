@@ -1745,7 +1745,7 @@ dieser Stelle nicht besprochen.
 ## Kollektivgesellschaft
 
 Die Kollektivgesellschaft (Art. 552 ff. OR) ist die idealtypische
-Personengesellschaft und ist daher ganz rechts in den beiden sich
+Personengesellschaft und ist daher ganz links in den beiden sich
 überlappenden Dreiecken zu verorten.
 
 Die Kollektivgesellschaft verfügt über mindestens zwei Gesellschafter.
