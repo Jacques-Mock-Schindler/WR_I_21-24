@@ -1660,7 +1660,7 @@ kommerzielle Tätigkeiten bieten.
          fill="#000000"
          stroke="none"
          style="white-space:pre"
-         id="tspan248">GbmH</tspan></tspan></tspan></text>&#10;       </g>&#10;      </g>&#10;      <g
+         id="tspan248">GmbH</tspan></tspan></tspan></text>&#10;       </g>&#10;      </g>&#10;      <g
    class="com.sun.star.drawing.CustomShape"
    id="g253">&#10;       <g
    id="id54">&#10;        <rect
