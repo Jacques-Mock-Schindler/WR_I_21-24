@@ -258,6 +258,7 @@ Eigenkapital zu decken (Art. 725 OR).
    height="751"
    id="rect37" />&#10;        <path
    fill="#ffffff"
+   fill-opacity="0"
    stroke="none"
    d="M 7000,3025 H 4625 v -750 h 4750 v 750 z"
    id="path38" />&#10;        <text
@@ -709,6 +710,7 @@ als 50% des Aktienkapitals und der gesetzlichen Reserven.
    height="751"
    id="rect35" />&#10;        <path
    fill="#ffffff"
+   fill-opacity="0"
    stroke="none"
    d="M 7000,3050 H 4625 v -750 h 4750 v 750 z"
    id="path36" />&#10;        <text
@@ -1174,6 +1176,7 @@ Verbindlichkeiten der AG nicht mehr gedeckt sind.
    height="751"
    id="rect38" />&#10;        <path
    fill="#ffffff"
+   fill-opacity="0"
    stroke="none"
    d="M 6842,3075 H 4279 v -750 h 5125 v 750 z"
    id="path39" />&#10;        <text
