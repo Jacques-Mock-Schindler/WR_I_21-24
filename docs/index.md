@@ -30,7 +30,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 31/10/2023 | Test "Gesellschaftsrecht"	                 |
 | 06/11/2023 | VWL - BIP	                                 |
 | 07/11/2023 | VWL - Konjunktur	                           |
-| 13/11/2023 | [VWL - nominelles und realse BIP](231113/reales_bip.md)             |
+| 13/11/2023 | [VWL - nominelles und reales BIP](231113/reales_bip.md)             |
 | 14/11/2023 | VWL - Wachstum	                             |
 | 27/11/2023 | VWL - Konjunkturpolitik	                   |
 | 28/11/2023 | VWL - Konjunkturpolitik der Schweiz         |
