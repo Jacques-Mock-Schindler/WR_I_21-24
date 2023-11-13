@@ -12,4 +12,4 @@ $$BIP_{real} = \frac{BIP_{nominal}}{LIK_{aktuell}} \cdot
 LIK_{basisjahr}$$
 
 Ein Beispiel für die Berechnung des realen BIP und der Visualisierung
-seiner Entwicklung findet sich [hier]([relaes_bip_entwicklung.ipynb](https://nbviewer.org/github/Jacques-Mock-Schindler/WR_I_21-24/blob/main/docs/231113/relaes_bip_entwicklung.ipynb)https://nbviewer.org/github/Jacques-Mock-Schindler/WR_I_21-24/blob/main/docs/231113/relaes_bip_entwicklung.ipynb).
+seiner Entwicklung findet sich [hier](https://nbviewer.org/github/Jacques-Mock-Schindler/WR_I_21-24/blob/main/docs/231113/relaes_bip_entwicklung.ipynb).
