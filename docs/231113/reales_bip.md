@@ -8,4 +8,8 @@ Volkswirtschaft im Verlauf der Zeit zu machen. Um dieses Problem zu
 lösen, berechnet man das BIP zu Preisen eines Basisjahres, das reale
 BIP. Die Formel für diese Berechnung lautet
 
-$$BIP_{real} = \frac{BIP_{nominal}}{LIK_{aktuell}} \cdot LIK_{basisjahr}$$
+$$BIP_{real} = \frac{BIP_{nominal}}{LIK_{aktuell}} \cdot
+LIK_{basisjahr}$$
+
+Ein Beispiel für die Berechnung des realen BIP und der Visualisierung
+seiner Entwicklung findet sich [hier](relaes_bip_entwicklung.ipynb).
