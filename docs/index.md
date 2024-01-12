@@ -39,6 +39,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 11/12/2023 | Zeichenübung Gini-Koeffizient	                        |
 | 12/12/2023 | Umfrage und Prüfungsvorbereitung	                      |
 | 18/12/2023 | Test "Konjunktur und Einkommensverteilung"	            |
+| 15/01/2023 | [Einführung Eherecht](240115/eherecht.md) |
 
 ## Beurteilung
 
