@@ -86,10 +86,6 @@ des Vertretungsrechts von [Art. 32
 ff. OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_G)
 nicht entgegen[^14].
 
-* Zurück zur [vorherigen Seite](trauung_im_ausland)
-* Weiter zur [nächsten Seite](gueterrecht/ordentlicher_gueterstand)
-* [Zum Inhaltsverzeichnis](../index)
-
 ---
 
 
