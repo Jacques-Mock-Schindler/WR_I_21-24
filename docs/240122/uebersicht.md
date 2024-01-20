@@ -10,8 +10,8 @@ Gesetzgeber hat sich dafür entschieden, den Ehegatten drei Güterstände
 anzubieten, welche sich zwischen diesen Extrempositionen bewegen.
 
 Das sind der 
-[ordentliche Güterstand der Errungenschaftsbeteiligung](ordentlichre_gueterstand), 
+[ordentliche Güterstand der Errungenschaftsbeteiligung](ordentlicher_gueterstand), 
 die
-[Gütergemeinschaft](guetermeinschaft) 
+[Gütergemeinschaft](guetergemeinschaft) 
 sowie die 
 [Gütertrennung](guetertrennung).
