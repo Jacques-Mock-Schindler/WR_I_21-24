@@ -41,7 +41,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 18/12/2023 | Test "Konjunktur und Einkommensverteilung"	            |
 | 15/01/2024 | [Einführung Eherecht](240115/eherecht.md) |
 | 16/01/2024 | [Die Wirkung der Ehe im Allgemeinen](240116/eheliche_gemeinschaft.md) |
-| 22/01/2024 | [Das eheliche Güterrecht]
+| 22/01/2024 | [Das eheliche Güterrecht](240122/uebersicht.md) |
 
 ## Beurteilung
 
