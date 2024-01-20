@@ -9,5 +9,9 @@ Ehe keine Auswirkungen auf das Vermögen hätte. Der Schweizerische
 Gesetzgeber hat sich dafür entschieden, den Ehegatten drei Güterstände
 anzubieten, welche sich zwischen diesen Extrempositionen bewegen.
 
-Das sind der ordentliche Güterstand der Errungenschaftsbeteiligung, die
-Gütergemeinschaft sowie die Gütertrennung.
+Das sind der 
+[ordentliche Güterstand der Errungenschaftsbeteiligung](ordentlichre_gueterstand), 
+die
+[Gütergemeinschaft](guetermeinschaft) 
+sowie die 
+[Gütertrennung](guetertrennung).
