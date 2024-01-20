@@ -78,7 +78,7 @@ Die güterrechtliche Auseinandersetzung erfolgt in vier Schritten[^4]:
    sind die gegenseitigen Forderungen miteinander zu verrechnen.
 
 ![Grafische Darstellung der güterrechtlichen
-Auseinandersetzung](../graphics/errungenschaftsbeteiligung.svg)
+Auseinandersetzung](./graphics/errungenschaftsbeteiligung.svg)
 
 ---
 
