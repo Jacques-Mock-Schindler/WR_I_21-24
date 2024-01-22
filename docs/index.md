@@ -42,6 +42,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 15/01/2024 | [Einführung Eherecht](240115/eherecht.md) |
 | 16/01/2024 | [Die Wirkung der Ehe im Allgemeinen](240116/eheliche_gemeinschaft.md) |
 | 22/01/2024 | [Das eheliche Güterrecht](240122/uebersicht.md) |
+| 23/01/2024 | [Die Entstehung des Kindesverhältnisses](240123/kinder_entstehung.md) |
 
 ## Beurteilung
 
