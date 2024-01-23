@@ -105,7 +105,7 @@ Einschränkungen im Einzelnen:
     persönlicher Austausch über die Ausbildungspläne und -erfolge
     möglich ist[^9].
 
-#### Elterliche Sorge
+## Elterliche Sorge
 
 Die elterliche Sorge dient dem Wohl des Kindes und wird grundsätzlich
 durch beide Eltern gemeinsam ausgeübt. Ziel dieses Pflichtrechts ist es,
