@@ -61,7 +61,7 @@ Minderjährigkeit endet.
 Neben dem Vater und dem Kind ist niemand zur Anfechtung der
 Vaterschaftsvermutung des Ehemannes berechtigt. Insbesondere der
 biologische Vater hat keine Möglichkeit seine Vaterschaft rechtlich
-festsellen zu lassen[^10]. Damit soll der Familienfrieden gewahrt
+feststellen zu lassen[^10]. Damit soll der Familienfrieden gewahrt
 werden.
 
 ## Adoption
