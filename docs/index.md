@@ -44,6 +44,22 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 22/01/2024 | [Das eheliche Güterrecht](240122/uebersicht.md) |
 | 23/01/2024 | [Die Entstehung des Kindesverhältnisses](240123/kinder_entstehung.md) |
 | 30/01/2024 | [Die Wirkungen des Kindesverhältnisses](240130/kinder_wirkung.md) |
+| 20.02.2024 | Familienrecht, Kindesrecht |
+| 26.02.2024 | Familienrecht, Kindesrecht |
+| 27.02.2024 | Erbrecht |
+| 04.03.2024 | Erbrecht |
+| 05.03.2024 | Test Familienrecht |
+| 11.03.2024 | VWL Staatsverschuldung |
+| 12.03.2024 | VWL Staatsverschuldung |
+| 18.03.2024 | VWL Staatsverschuldung |
+| 19.03.2024 | VWL Arbeitslosigkeit |
+| 25.03.2024 | VWL Arbeitslosigkeit |
+| 26.03.2024 | VWL Aussenwirtschaft |
+| 01.04.2024 | VWL Aussenwirtschaft |
+| 02.04.2024 | VWL Geldpolitik |
+| 08.04.2024 | VWL Geldpolitik |
+| 09.04.2024 | Test VWL |
+| 06.05.2024 | Start Repetitionen |
 
 ## Beurteilung
 
