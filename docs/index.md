@@ -44,7 +44,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 22/01/2024 | [Das eheliche Güterrecht](240122/uebersicht.md) |
 | 23/01/2024 | [Die Entstehung des Kindesverhältnisses](240123/kinder_entstehung.md) |
 | 30/01/2024 | [Die Wirkungen des Kindesverhältnisses](240130/kinder_wirkung.md) |
-| 20.02.2024 | Familienrecht, Kindesrecht |
+| 20.02.2024 | [Die Wirkungen des Kindesverhältnisses im Allgemeinen](240220/kinder_wirkung_allgemein.md) |
 | 26.02.2024 | Familienrecht, Kindesrecht |
 | 27.02.2024 | Erbrecht |
 | 04.03.2024 | Erbrecht |
