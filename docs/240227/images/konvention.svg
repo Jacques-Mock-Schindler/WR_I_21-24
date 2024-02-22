@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120.20688mm"
+   height="10.5709mm"
+   viewBox="0 0 120.20688 10.5709"
+   version="1.1"
+   id="svg1622"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="konvention.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1624"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.48996914"
+     inkscape:cx="3.0614173"
+     inkscape:cy="93.883465"
+     inkscape:window-width="1280"
+     inkscape:window-height="778"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1619" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-51.676564,-123.77455)">
+    <g
+       id="g1691"
+       transform="matrix(0.35277777,0,0,-0.35277777,55.81721,130.15513)">
+      <g
+         id="g1693">
+        <g
+           id="g1695">
+          <g
+             id="g1697">
+            <g
+               id="g1699">
+              <path
+                 d="M 11.33876,0 C 11.33876,6.2623 6.2623,11.33876 0,11.33876 -6.2623,11.33876 -11.33876,6.2623 -11.33876,0 c 0,-6.2623 5.07646,-11.33876 11.33876,-11.33876 6.2623,0 11.33876,5.07646 11.33876,11.33876 z"
+                 style="fill:none;stroke:#000000;stroke-width:0.79701;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 id="path1701" />
+            </g>
+            <g
+               id="g1703">
+              <g
+                 id="g1705" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g1707"
+         transform="translate(-17.715,-15.324)">
+        <text
+           transform="matrix(1,0,0,-1,41.407,3.587)"
+           style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1711"><tspan
+             x="0 5.6766896 9.5790396 14.56034"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1709">Frau</tspan></text>
+        <g
+           id="g1713"
+           transform="translate(85.191,15.324)">
+          <g
+             id="g1715">
+            <g
+               id="g1717">
+              <g
+                 id="g1719">
+                <g
+                   id="g1721">
+                  <path
+                     d="M -11.33876,-11.33876 H 11.33876 V 11.33876 H -11.33876 Z"
+                     style="fill:none;stroke:#000000;stroke-width:0.79701;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path1723" />
+                </g>
+                <g
+                   id="g1725">
+                  <g
+                     id="g1727" />
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="g1729"
+             transform="translate(-85.191,-15.324)">
+            <text
+               transform="matrix(1,0,0,-1,108.883,3.587)"
+               style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text1733"><tspan
+                 x="0 9.1327152 14.114016 19.649237"
+                 y="0"
+                 sodipodi:role="line"
+                 id="tspan1731">Mann</tspan></text>
+            <g
+               id="g1735"
+               transform="translate(160.992,18.557)">
+              <g
+                 id="g1737">
+                <g
+                   id="g1739">
+                  <g
+                     id="g1741">
+                    <g
+                       id="g1743">
+                      <g
+                         id="g1745" />
+                    </g>
+                    <g
+                       id="g1747">
+                      <path
+                         d="m -14.5719,-14.5719 29.1438,29.1438 m -29.1438,0 29.1438,-29.1438"
+                         style="fill:none;stroke:#000000;stroke-width:0.79701;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                         id="path1749" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1751"
+                 transform="translate(-160.992,-18.557)">
+                <text
+                   transform="matrix(1,0,0,-1,187.917,3.587)"
+                   style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="text1755"><tspan
+                     x="0 6.7805457 12.315766 15.083376 20.064676 23.993925 27.923176 32.350555 36.252907 39.850399"
+                     y="0"
+                     sodipodi:role="line"
+                     id="tspan1753">EblasserIn</tspan></text>
+                <g
+                   id="g1757"
+                   transform="translate(260.228,18.557)">
+                  <g
+                     id="g1759">
+                    <g
+                       id="g1761">
+                      <g
+                         id="g1763">
+                        <g
+                           id="g1765">
+                          <g
+                             id="g1767" />
+                        </g>
+                        <g
+                           id="g1769">
+                          <path
+                             d="M -14.5719,-14.5719 14.5719,14.5719"
+                             style="fill:none;stroke:#000000;stroke-width:0.79701;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                             id="path1771" />
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                  <g
+                     id="g1773"
+                     transform="translate(-260.228,-18.557)">
+                    <text
+                       transform="matrix(1,0,0,-1,287.153,3.587)"
+                       style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                       id="text1777"><tspan
+                         x="0 4.9793077 9.9606075 13.862958 18.842266 23.269646 27.171995 31.101244 34.9757 39.957001 43.859352 49.673523 54.100903"
+                         y="0"
+                         sodipodi:role="line"
+                         id="tspan1775">vorverstorben</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
